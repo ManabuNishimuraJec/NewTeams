@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\newteam\\newgame\\intermediate\\build\\win64\\unrealeditor\\inc\\newgame\\newgamecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\newteam\\newgame\\intermediate\\build\\win64\\newgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\newteam\\newgame\\intermediate\\build\\win64\\unrealeditor\\development\\newgame\\definitions.newgame.h",
+            "e:\\newteam\\newgame\\source\\newgame\\newgamecharacter.h",
+            "e:\\ue\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\ue\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\ue\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "e:\\ue\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\ue\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "e:\\ue\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "e:\\newteam\\newgame\\intermediate\\build\\win64\\unrealeditor\\inc\\newgame\\newgamecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

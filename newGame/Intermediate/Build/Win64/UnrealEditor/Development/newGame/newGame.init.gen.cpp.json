@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\newteam\\newgame\\intermediate\\build\\win64\\unrealeditor\\inc\\newgame\\newgame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\newteam\\newgame\\intermediate\\build\\win64\\newgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\newteam\\newgame\\intermediate\\build\\win64\\unrealeditor\\development\\newgame\\definitions.newgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

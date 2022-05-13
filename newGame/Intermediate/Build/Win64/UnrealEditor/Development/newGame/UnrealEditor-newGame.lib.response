@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-newGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\NewTeam\newGame\Intermediate\Build\Win64\newGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\NewTeam\newGame\Intermediate\Build\Win64\UnrealEditor\Development\newGame\newGame.cpp.obj"
+"E:\NewTeam\newGame\Intermediate\Build\Win64\UnrealEditor\Development\newGame\newGameCharacter.cpp.obj"
+"E:\NewTeam\newGame\Intermediate\Build\Win64\UnrealEditor\Development\newGame\newGameGameMode.cpp.obj"
+"E:\NewTeam\newGame\Intermediate\Build\Win64\UnrealEditor\Development\newGame\newGame.init.gen.cpp.obj"
+"E:\NewTeam\newGame\Intermediate\Build\Win64\UnrealEditor\Development\newGame\newGameCharacter.gen.cpp.obj"
+"E:\NewTeam\newGame\Intermediate\Build\Win64\UnrealEditor\Development\newGame\newGameGameMode.gen.cpp.obj"
+"E:\NewTeam\newGame\Intermediate\Build\Win64\UnrealEditor\Development\newGame\Default.rc2.res"
+/OUT:"E:\NewTeam\newGame\Intermediate\Build\Win64\UnrealEditor\Development\newGame\UnrealEditor-newGame.lib"
