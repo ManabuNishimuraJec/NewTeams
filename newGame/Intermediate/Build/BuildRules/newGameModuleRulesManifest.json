@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"E:\\NewTeam\\newGame\\Source\\newGame\\newGame.Build.cs",
-		"E:\\NewTeam\\newGame\\Source\\newGame.Target.cs",
-		"E:\\NewTeam\\newGame\\Source\\newGameEditor.Target.cs"
-	],
-	"EngineVersion": "5.0.1"
-}
