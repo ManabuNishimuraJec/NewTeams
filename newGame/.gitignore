@@ -74,3 +74,12 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 *.log
+
+Content/Animations/Player/Attack3/Sword_And_Shield_Attack.uasset
+Content/Materials/Landscape/Textures/Path/T_Path_A.uasset
+Content/Materials/Landscape/Textures/Path/T_Path_N.uasset
+Content/Materials/Landscape/Textures/WetSoil/T_WetSoil_A.uasset
+Content/Materials/Landscape/Textures/WetSoil/T_WetSoil_N.uasset
+Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset
+Content/RetergetAnim/Sword_And_Shield_Attack_Retargeted.uasset
+
